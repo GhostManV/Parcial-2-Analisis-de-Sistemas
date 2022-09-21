@@ -1,2 +1,2 @@
-#Parcial-2-Analisis-de-Sistemas
-#Estrellita al repo
+# Parcial-2-Analisis-de-Sistemas
+# Estrellita al repo
